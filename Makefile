@@ -16,5 +16,17 @@ enrich:
 write:
 	python3 write.py
 
+patch: deps
+	bin/cmdMultiPatch --create Ecco\ Jr.\ \(USA,\ Australia\).Base.md Ecco\ Jr.\ \(USA,\ Australia\).Hack.md eccojr_german.ips
+
 watch:
 	ls strings_de.txt| entr make
+
+deps: bin/cmdMultiPatch
+
+bin/cmdMultiPatch:
+	mkdir bin || true
+	wget http://projects.sappharad.com/multipatch/multipatch20_cmd.zip -O bin/multipatch.zip
+	unzip bin/multipatch.zip -d bin
+	rm bin/multipatch.zip
+
