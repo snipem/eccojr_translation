@@ -1,3 +1,5 @@
+build: read enrich write
+
 diff: read enrich write
 	# This is the complete round trip and should work with a plain base rom
 	# and a strings_de.txt file that matches an extracted strings_en.txt file
@@ -13,3 +15,6 @@ enrich:
 
 write:
 	python3 write.py
+
+watch:
+	ls strings_de.txt| entr make

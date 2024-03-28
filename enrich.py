@@ -32,7 +32,8 @@ def expand_translat_text_to_match_original_text(translat_text: str, original_tex
         return translat_text
     elif len(translat_text) > len(original_text):
         proposal_text = translat_text[0:len(original_text)]
-        print("Error: translat_text is longer than original_text: %s > %s = %s" % (translat_text, original_text, proposal_text))
+        proposal_text += (len(translat_text) - len(original_text)) * "❌"
+        print("Error: translat_text is longer than original_text:\n%s\n%s\n%s" % (translat_text, original_text, proposal_text))
         sys.exit(1)
     else:
         return expand_string(translat_text, len(original_text))
@@ -46,9 +47,11 @@ if __name__ == '__main__':
         lines = file.readlines()
 
     for i, text in enumerate(texts):
+        line_nr = i+1
 
         if i >= len(lines):
-            print("%d: Cannot proceed with translation for text: %s. Not enough lines" % (text.nr, text))
+            print("%d: Cannot proceed with translation for text: %s. Not enough lines\n" % (line_nr, text))
+            print("This may be expected")
             break
         else:
             translat_candidate = lines[i].replace("\n", "")
@@ -58,7 +61,7 @@ if __name__ == '__main__':
                 translat_candidate = translat_candidate.replace("\\n", "\n")
 
                 text.translat_text = expand_translat_text_to_match_original_text(translat_candidate, text.original_text)
-                print("%d: Translated %s to %s" % (text.nr, text.original_text, text.translat_text))
+                print("%d: Translated %s to %s" % (line_nr, text.original_text, text.translat_text))
 
     with open('texts.json', 'w') as file:
         json.dump([text.__dict__ for text in texts], file, indent=4)

@@ -4,12 +4,6 @@ import sys
 
 from read import Text
 
-# alphabet = [
-#     ["\\", "Ö"],
-#     ["^", "Ü"],
-#     ["@", "Ä"],
-# ]
-
 def read_texts_from_json(file_path):
     texts = []
     with open(file_path, "r") as file:
@@ -56,7 +50,10 @@ if __name__ == '__main__':
             # Replace Umlauts
             umlaut_text = text.translat_text
             umlaut_text = umlaut_text.replace('Ö', '\\')
+            umlaut_text = umlaut_text.replace('ö', '\\')
             umlaut_text = umlaut_text.replace('Ä', '@')
+            umlaut_text = umlaut_text.replace('ä', '@')
             umlaut_text = umlaut_text.replace('Ü', '^')
+            umlaut_text = umlaut_text.replace('ü', '^')
 
             write_string_to_offset(dst, text.start_offset, text.end_offset, umlaut_text)
