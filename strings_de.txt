@@ -126,7 +126,6 @@ die Klicks sehr deutlich.
 Wer sind die Feinde
 von Delphinen?
 
-Genau wie für Menschen,
 Genau wie für Menschen
 lauern im Wasser viele
 Feinde auf Delphine.
@@ -320,10 +319,10 @@ Walen und Delphinen.
 
 Wie weit können
 Delphine sich gegenseitig
-höhren?
+hören?
 
 Delphine können sich 
-über 750m höhren.
+über 750 m hören.
 Sofern keine Schiffe 
 in der Nähe sind.
 
