@@ -5,9 +5,9 @@ DEN WEISEN WAL FINDEN
 DIE JUNGEN DELPHINE FANDEN HERAUS,
 DASS DIE MYSTERIÖSEN KRISTALLE AUF
 IHREM WEG HELFEN WÜRDEN.
-WENN DIE DELPHINE ALLE DINGE
+WENN SIE ALLE OBJEKTE
 FÜR DIE KRISTALLE FINDEN
-WÜRDEN, FÄNDEN SIE 
+WÜRDEN, FÄNDEN SIE AUCH
 DEN BERÜHMTEN BIG BLUE.
 DRÜCKE START!
 
@@ -22,28 +22,28 @@ LIEDERBUCHT
 MEHR FREUNDE WARTEN\nAUF DICH!
 
 SCHATZSCHLUCHT
-FINDE DEN SCHATZ, ABER PASS AUF\nDIE WILDEN DELPHINE AUF..\nSIE WOLLEN EBENFALLS DEN SCHATZ!
+FINDE DEN SCHATZ, ABER PASS AUF\nDIE WILDEN DELPHINE AUF..\nSIE SUCHEN IHN AUCH!
 
 HAI MEER
 FINDE ALLE HAIE!
 
 SEEHUNDBAU
-FINDE DAS SPIELZEUG DES SEEHUNDS
+FINDE DAS SEEHUND-SPIELZEUG!
 
 DAS MUSIKMEER
-FÜHRE ALLE MUSIKRINGE ZUSAMMEN\nUM DER MUSIK DES MEERES ZU LAUSCHEN.
+FÜHRE ALLE MUSIKRINGE ZUSAMMEN,\nUM DER MUSIK DES MEERES ZU LAUSCHEN.
 
 OZEANFANG
-DU BIST! MARKIERE EINEN FREUND\nMIT SCHNECKEN UND SCHWIMM\nSO SCHNELL DU KANNST!
+DU BIST! MARKIERE EINEN FREUND\nMIT SCHNECKEN UND SCHWIMME\nSO SCHNELL DU KANNST!
 
 FISCH HOEHLEN
-BESINGE EINEN FISCH UND LOCKE SIE IN DIE\nHÖHLEN MIT DEN SEEPFERDCHEN.
+BESINGE DIE FISCHE UND LOCKE SIE IN DIE\nHÖHLEN MIT DEN SEEPFERDCHEN.
 
 MUSCHELSUCHE
 BRINGE ALLE SCHWIMMENDEN KRISTALLE\nIN DIE SEEPFERDCHEN-HÖHLE.
 
 KROETEN INSEL
-MUTTER SCHILDKRÖTE\nHAT IHR EI VERLOREN\nBRING IHR IHR BABY ZURÜCK!
+MUTTER SCHILDKRÖTE\nHAT IHR EI VERLOREN\nBRING IHR BABY ZURÜCK!
 
 OKTUPUS PASSAGE
 FINDE ALLE SCHWERTFISCHE.\nSIE ZEIGEN DIR DEN AUSGANG.
@@ -52,22 +52,22 @@ MAGISCHER OZEAN
 FINDE ALLE KLEINEN KRISTALLE\nUND BRINGE SIE ZUM AUSGANG!
 
 IRRGARTEN
-BESINGE ALLE KRISTALLE MIT\nDEINEM SONAR BIS ALLE WEG SIND.
+BESINGE ALLE KRISTALLE MIT \n    DEM SONAR BIS SIE WEG SIND.
 
 VERZAUBERTE SEE
 DU BIST! MARKIERE EINEN FREUND\nMIT SYMBOLEN UND SCHWIMME\n SCHNELL ZUM AUSGANG.
 
 RIFF MYSTERIUM
-FINDE ALLE SCHÄTZE UND BRING SIE\nZUR SCHATZKISTE.
+FINDE ALLE SCHÄTZE\n      UND BRINGE SIE ZUR SCHATZKISTE.
 
 BUCHT DES\nZERBROCHENEN LIEDES
 SAMMLE ALLE MUSIK-RINGE\nFÜR EIN NEUES LIED.
 
 VULKANBUCHT
-FINDE ETWAS ZUM ERHITZEN\nDES EISES UM DEN KRISTALL
+FINDE ETWAS ZUM ERHITZEN\nDES EINGEFRORENEN KRISTALLS
 
 DIE STEINFISCH\nLAGUNE
-DEINE FREUNDE SIND VERSTECKT\nFINDEST DU SIE?
+DEINE FREUNDE SIND VERSTECKT.\nFINDEST DU SIE?
 
 DELPHIN BAHN
 DU BIST! MARKIERE EINEN FREUND\nMIT FISCHEN UND SCHWIMME\nSCHNELL ZUM AUSGANG.
@@ -76,22 +76,22 @@ OZEAN DER\nTAEUSCHUNG
 FINDE DEN SCHLAUEN DELPHIN UND FOLGE\nIHM ZUM AUSGANG.
 
 PERLENTANGO
-MANCHE AUSTERN HABEN PERLEN IM INNERN\nFINDE DIE PERLEN!
+MANCHE AUSTERN HABEN PERLEN IM INNERN.\nFINDE DIE PERLEN!
 
-LAGUNE\nDER LIEDER
-MEHR DEINE FREUNDE SIND DA.\nFINDE SIE ALLE!
+LAGUNE\n DER LIEDER
+NOCH MEHR FREUNDE SIND DA.\nFINDE SIE ALLE!
 
 SEEPFERDRIFF
-DAS BABY SEEPFERD IST WEG!\nHILF SEINER MUTTER!
+DAS BABY SEEPFERD IST WEG!\n   HILF SEINER MUTTER!
 
-MELODIE WASSER
-FÜHRE ALLE MUSIKRINGE ZUSAMMEN\nUM DER MUSIK DES MEERES\nZU LAUSCHEN.
+MELODIE MEER
+FÜHRE ALLE MUSIKRINGE ZUSAMMEN,\nUM DER MUSIK DES MEERES\n  ZU LAUSCHEN.
 
 FISCHRIFF
-SAMMLE ALLE KLEINEN FISCHE\nUND BRINGE SIE ZUM AUSGANG.
+SAMMLE ALLE KLEINEN FISCHE\n   UND BRINGE SIE ZUM AUSGANG.
 
-IRRGARTEN
-BIG BLUE IST NAH! FINDE DEINE BEIDEN FREUNDE\nUND BRING SIE ZUM\nAUSGANG.
+TREFFPUNKT
+BIG BLUE IST NAH!\nFINDE DEINE BEIDEN FREUNDE\n UND BRINGE SIE ZUM AUSGANG
 
 HAUS DES\nEINSIEDLERKREBS
 HILF DEM EINSIEDLERKREBS NACH HAUSE
@@ -109,33 +109,33 @@ and klicken als eine Form
 der Kommunikation
 
 Die Klicks klingen wie
-der Klang einer Kuckucks-
-uhr
+der Klang einer Standuhr.
+   
 
 Die Schallenergie ist
-typischerweise ueber ein
+typischerweise über ein
 breites Frequenz-Spektrum
-verteilt. Viele von
-ihnen ueber dem von 
-Menschen hoehrbarem. Aber
-Menschen hoehren Klicks
-manchmal sehr deutlich.
-
+verteilt. Vieles davon
+weit über dem von 
+Menschen höhrbarem. Aber
+manchmal höhren Menschen
+die Klicks sehr deutlich.
+   
 
 
 Wer sind die Feinde
 von Delphinen?
 
-Genau wie Menschen,
-lauern viele Feinde auf
-Delphine im Wasser.
+Genau wie für Menschen,
+lauern im Wasser viele
+Feinde auf Delphine.
 
-Haie, groessere Fische
+Haie, grössere Fische
 und sogar andere Delphine
-gehoehren dazu.
+gehöhren dazu.
 
 Leider sind auch die
-Menschen toedliche 
+Menschen tödliche 
 Delphin-Feinde.
 
 
@@ -145,34 +145,34 @@ Delphin schwimmen?
 Ein Delphin treibt sich
 durch seine Schwanzflosse
 durchs Wasser. Nicht etwa
-durch seine Flipper 
-(Flossen). Er kann bis zu
-32 km pro Stunde ueber
+durch seine Flipper.
+Er kann bis zu
+32 km pro Stunde über
 lange Strecken schwimmen.
+    
 
 
-
-Wie lang koennen Delphine
+Wie lang können Delphine
 tauchen ohne zu atmen?
 
-Alle Delphine koennen
-viel laenger im Meer
+Alle Delphine können
+viel länger im Meer
 untergetaucht bleiben als
 ein Mensch.
+    
 
-
-Grosse Tuemmler,wie Ecco,
-leben in flachen Kuesten-
-gewaessern und atmnen
+Grosse Tümmler, wie Ecco,
+leben in flachen Küsten-
+gewässern und atmen
 mehrere Male pro Minute
 wenn sie normal schwimmen
-
+   
 
 Manchmal halten sie ihren
-Atem fuer rund 6 Minuten
+Atem für rund 6 Minuten
 an. Tief tauchende 
 Delphine und Wale halten 
-ihren Atem zum Teil fuer
+ihren Atem zum Teil für
 eine Stunde an.
 
 
@@ -180,7 +180,7 @@ Gibt es bestimmte
 Gegenden in denen man
 Delphine trifft?
 
-Gewoehnliche Delphine
+Gewöhnliche Delphine
 bewohnen alle warmen 
 und tropischen Ozeane.
 
@@ -191,7 +191,7 @@ angegriffen?
 
 Bis zum heutigen Tag,
 gibt es keinen Nachweis
-ueber einen Angriff auf
+über einen Angriff auf
 Menschen. Stand 1995.
 
 Das Gegenteil ist der
@@ -199,21 +199,21 @@ Fall. Delphine haben
 Seeleuten und Fischern
 in Not sowie veirrten
 Schwimmern geholfen,
-wieder zurueck an die
-Kueste zu kommen.
+wieder zurück an die
+Küste zu kommen.
 
 Wobei sie vielleicht
 einfach nur gerne Dinge
 angestupst haben.
+   
 
-
-Wir kennen natuerlich nur
+Wir kennen natürlich nur
 die Situationen in denen
-sie Menschen zurueck an 
-die Kueste gestupst haben
+sie Menschen zurück an 
+die Küste gestupst haben
 
 Es gibt kein Beweise
-dafuer, dass sie
+dafür, dass sie
 Menschen in die andere
 Richtung gestupst haben
 - aufs offene Meer!
@@ -228,32 +228,32 @@ und schneller zu werden.
 
 In Wasser-Parks springen
 Delphine als Teil der 
-Show, um ihre Groesse, 
+Show, um ihre Grösse, 
 ihre Eleganz, 
-ihre Schoenheit
+ihre Schönheit
 und Intelligenz 
 den Zuschauern zu zeigen.
-
+   
 
 
 Was essen Delphine?
 
-Delphine sind primaer
+Delphine sind primär
 Fisch-Fresser.
 
 
-Wie fuehlt sich die Haut 
+Wie fühlt sich die Haut 
 eines Delphins an?
 
 Solltest du einmal das
-Glueck haben die Haut
-eines Delphins anzufassen
+Glück haben Delphin-Haut
+anzufassen,
 wirst du merken wie
 seidig glatt sie ist.
 Rutschig, aber nicht
-schlemig wie Fisch.
+schleimig wie Fisch.
 
-Delphine haeuten sich
+Delphine häuten sich
 sehr schnell. Studien 
 zeigen, dass ein Delphin
 12 Hautschichten an nur
@@ -266,13 +266,13 @@ sind Delphine?
 Man glaubt, dass Delphine
 sehr intelligent sind.
 Aktuelle Erkenntnisse
-zeigen Kapazitaeten zum
+zeigen Kapazitäten zum
 erlernen und der Mimikry
-(nachahmen und taeuschen)
+(nachahmen und täuschen)
 Neuere und ausgefeiltere
-Studien in die 
+Studien zu 
 Gedanken und Intelligenz 
-von Delphinen soll
+von Delphinen sollen
 das beweisen. Stand 1995.
 
 
@@ -297,12 +297,12 @@ und Delphine
 miteinander?
 
 Es gibt keine Beweise,
-dass Delphine ueber
+dass Delphine über
 besondere Wahrnehmung
-verfuegen. Sie koennen
-nicht ueber Telepahtie
+verfügen. Sie können also
+nicht über Telepathie
 menschliche Gedanken 
-oder Gefuehle verstehen.
+oder Gefühle verstehen.
 
 
 Wie viele Arten von
@@ -317,17 +317,17 @@ von Cetacea also
 Walen und Delphinen.
 
 
-Wie weit koennen
+Wie weit können
 Delphine sich gegenseitig
-hoehren?
+höhren?
 
-Delphine koennen sich 
-ueber 750m hoehren.
+Delphine können sich 
+über 750m höhren.
 Sofern keine Schiffe 
-in der Naehe sind.
+in der Nähe sind.
 
 
-Delphine reisen in Herden
+Eine Herde mit Delphinen!
 Wie viele Delphine
 befinden sind
 darin?
@@ -336,13 +336,13 @@ Diese Herden nennt man
 Pod. In einem Pod sind 
 durchschnittlich 10 
 Delphine. In diesen Pods
-koennen durchaus tausende
+können durchaus tausende
 andere Delphine
 mitschwimmen.
 
 In Pods schwimmen meist
-Weibchen. Waehrend 
-Maennchen haeufig 
+Weibchen. Während 
+Männchen häufig 
 alleine schwimmen.
 
 
@@ -355,11 +355,11 @@ gemeiner Delphine gibt
 es heute weltweit.
 
 
-Wie gross koennen
+Wie gross können
 Delphine werden?
 
 Ein durschnittlicher
-Delphin ist 2.5m lang.
+Delphin ist 2,5m lang.
 
 
 Wie viel wiegt ein
@@ -376,17 +376,17 @@ Delphin bei Geburt?
 Ein neugeborener Delphin
 ist etwa 1 Meter lang. 
 Was etwa ein Drittel 
-der Groesse seiner Mutter
-ist. Das Baby wiegt
-12 kg.
+der Grösse seiner Mutter
+ist. Das Baby wiegt 12 kg
+ 
 
 
-Moegen Delphine Menschen?
+Mögen Delphine Menschen?
 
 Ja. Delphine sind bekannt
-deafuer Menschen in Not 
+dafür Menschen in Not 
 zu helfen. Es gibt keine
-Berichte ueber Delphine
+Berichte über Delphine
 die Menschen 
 verletzen.
 
