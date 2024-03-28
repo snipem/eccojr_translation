@@ -1,3 +1,6 @@
+patch: deps build
+	bin/cmdMultiPatch --create Ecco\ Jr.\ \(USA,\ Australia\).Base.md Ecco\ Jr.\ \(USA,\ Australia\).Hack.md eccojr_german.ips
+
 build: read enrich write
 
 diff: read enrich write
@@ -15,9 +18,6 @@ enrich:
 
 write:
 	python3 write.py
-
-patch: deps
-	bin/cmdMultiPatch --create Ecco\ Jr.\ \(USA,\ Australia\).Base.md Ecco\ Jr.\ \(USA,\ Australia\).Hack.md eccojr_german.ips
 
 watch:
 	ls strings_de.txt| entr make
