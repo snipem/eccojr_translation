@@ -57,3 +57,5 @@ if __name__ == '__main__':
             umlaut_text = umlaut_text.replace('ü', '^')
 
             write_string_to_offset(dst, text.start_offset, text.end_offset, umlaut_text)
+
+        write_string_to_offset(dst, 0x00003007, 0x00003007, "MATTHIAS K^CH")
