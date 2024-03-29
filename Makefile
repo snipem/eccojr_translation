@@ -30,3 +30,5 @@ bin/cmdMultiPatch:
 	unzip bin/multipatch.zip -d bin
 	rm bin/multipatch.zip
 
+zip: patch
+	zip -r eccojr_german.zip eccojr_german.ips INFO.txt

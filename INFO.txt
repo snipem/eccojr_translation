@@ -1,0 +1,15 @@
+Ecco Jr. - German Translation 1.0
+=================================
+
+This rom hack translates Ecco Jr (1995) into German.
+
+All text is translated. This includes:
+
+* Menus
+* Mission Briefings
+* In-Game Dolphin Encyclopedia (Accessed via pressing A+B+C on the title screen)
+
+I made this fun project because I found myself translating the text while playing with my little son.
+It is my first rom hack, and it became a fun project.
+
+Sources: https://github.com/snipem/eccojr_translation

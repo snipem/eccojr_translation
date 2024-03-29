@@ -58,4 +58,5 @@ if __name__ == '__main__':
 
             write_string_to_offset(dst, text.start_offset, text.end_offset, umlaut_text)
 
+        write_string_to_offset(dst, 0x000A6204, 0x000A6214, "ELTERN OPTIONEN ")
         write_string_to_offset(dst, 0x00003007, 0x00003007, "MATTHIAS K^CH")
